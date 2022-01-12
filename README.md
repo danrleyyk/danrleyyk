@@ -1,5 +1,4 @@
-<link rel="stylesheet" href="https://github.com/danrleyyk/danrleyyk/blob/main/loader.css">
-### 𝚆𝚊𝚒𝚝𝚒𝚗𝚐 𝚏𝚘𝚛 𝚞𝚙𝚍𝚊𝚝𝚎𝚜. ###
+<h1 align=center> ### 𝚆𝚊𝚒𝚝𝚒𝚗𝚐 𝚏𝚘𝚛 𝚞𝚙𝚍𝚊𝚝𝚎𝚜. ### </h1>
 
 
-<div class="loader"></div>
+
